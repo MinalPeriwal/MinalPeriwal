@@ -26,13 +26,13 @@
 ### Languages
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,sql"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,html,css,sql"/>
 </p>
 
 ### Frameworks & Tools
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=django,fastapi,react,bootstrap,postgres,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=django,fastapi,react,bootstrap,postgres,git,github,vscode,unity"/>
 </p>
 
 ### AI / Data Science
@@ -90,12 +90,6 @@ Smart Waste Management using AI
 
 ---
 
-## ✍️ Handwritten Digit Recognizer
-
-Deep Learning project for handwritten digit recognition using CNN.
-
----
-
 # 📊 GitHub Statistics
 
 <p align="center">
@@ -128,25 +122,16 @@ Deep Learning project for handwritten digit recognition using CNN.
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=MinalPeriwal&theme=algolia&margin-w=10&margin-h=10"/>
-
-</p>
-
----
 
 # 🌐 Connect with Me
 
 <p align="left">
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<a href="https://linkedin.com/in/minal-periwal">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:minalperiwal.29@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
